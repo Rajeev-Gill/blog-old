@@ -1,0 +1,35 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.6.10
+  http://backwpup.com
+  Blog Name: 01 : Blog
+  Blog URL: https://rajeevdigital.uk/blog
+  Generated on: 2019-08-24 19:23.38
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Admin Custom Font (v.2.5.0) from TehnoBlog.org
+	http://tehnoblog.org/how-to-change-font-in-wordpress-admin-dashboard/
+Akismet Anti-Spam (v.4.1.1) from Automattic
+	https://akismet.com/
+BackWPup (v.3.6.10) from Inpsyde GmbH
+	http://backwpup.com
+Hello Dolly (v.1.7.1) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Really Simple SSL (v.3.1.5) from Rogier Lankhorst, Mark Wolters
+	https://www.really-simple-ssl.com
+Yoast SEO (v.11.2.1) from Team Yoast
+	https://yoa.st/1uj
+
+Active plugins:
+------------------------------
+Admin Custom Font
+BackWPup
+Really Simple SSL
+Yoast SEO
+
+Inactive plugins:
+------------------------------
+Akismet Anti-Spam
+Hello Dolly
